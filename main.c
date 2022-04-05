@@ -2,7 +2,7 @@
 //  main.c
 //  ExoREV4Chaines
 //
-//  Created by web development on 02/04/2022.
+//  Created by jeremy fouquet on 02/04/2022.
 //
 
 #include <stdio.h> // puts(), printf()
