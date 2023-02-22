@@ -1,9 +1,14 @@
-//
-//  main.c
-//  ExoREV4Chaines
-//
-//  Created by jeremy fouquet on 02/04/2022.
-//
+/*
+   # *******************************************************
+   # Nom ......... : main.c
+   # Rôle ........ : Exercices sur les chaines en C
+   # Auteur ...... : Jeremy Fouquet
+   # Version ..... : V1 2022
+   # Licence ..... : Réalisé dans le cadre du cours de La Licence Informatique de L IED
+   # Compilation :  gcc main.c
+   # Execution : ./a.out
+   # *******************************************************
+*/
 
 #include <stdio.h> // puts(), printf()
 #include <stdlib.h> // exit()
